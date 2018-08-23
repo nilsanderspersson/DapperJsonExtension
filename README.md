@@ -14,6 +14,6 @@ using (var cn = new SqlConnection("your connection string"))
  }
   ```
   
- Read more about JSON Output here:<br>
+ Read more about JSON Output in SQL 2016 here:<br>
  https://docs.microsoft.com/en-us/sql/relational-databases/json/format-json-output-automatically-with-auto-mode-sql-server?view=sql-server-2017
  
