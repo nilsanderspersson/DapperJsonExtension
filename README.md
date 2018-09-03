@@ -1,4 +1,3 @@
-{% seo %}
 # Introduction
 
 Dapper Json Extensions is a small library that complements Dapper by adding FOR JSON function with SQL Server 2016.
